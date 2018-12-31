@@ -7,6 +7,7 @@ from validate import validate
 
 NUM_EPOCHS = 10
 
+
 def main():
     net = Network()
     train(
